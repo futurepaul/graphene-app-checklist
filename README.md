@@ -22,7 +22,6 @@ Not listed here are apps I use on my iPad, such as Clubhouse, Prime Video, and B
 - [ ] twitter -> (pwa? nitter ???) 
 - [ ] discord -> ???
 - [ ] telegram -> telegram (fdroid is this a safe fork?)
-- [ ] citi bike -> (getting a key but the map is helpful) 
 - [ ] audible -> ???
 - [ ] youtube -> ??? (newpie isn't working?)
 - [ ] hinge -> ARGH SINGLE FOREVER
@@ -36,6 +35,7 @@ Not listed here are apps I use on my iPad, such as Clubhouse, Prime Video, and B
 ## NICE TO HAVE
 - [x] zulip -> zulip (apk!)
 - [x] mastodon: tusky (fdroid) -> tusky
+- [ ] citi bike -> (getting a key but the map is helpful) 
 - [ ] github -> ??? 
 - [ ] gotenna mesh -> ???
 - [ ] steam (2fa) -> (just need at home so could have on my ipad) 
