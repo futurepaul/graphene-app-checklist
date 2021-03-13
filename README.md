@@ -12,17 +12,17 @@ Not listed here are apps I use on my iPad, such as Clubhouse, Prime Video, and B
 - [x] voice memos: audio recorder (fdroid) -> audio recorder
 - [x] maps -> google maps -> OsmAnd+ (fdroid)
 - [x] fastmail + gmail -> k-9 (fdroid, kind of bad but it works)
-- [x] authy -> authy (aegis looks nice? ended up using authy from APKMirror)
-- [ ] notes: gitjournal -> (I could build from source) 
+- [x] authy -> aegis (manually redid my 2fa for each account... there is some way to export authy tho)
+- [ ] notes: gitjournal -> (I could build from source... aurora store version isn't working) 
 - [ ] uber -> ???
 
 ## THE REASON I'M ON MY PHONE ALL THE TIME BUT WOULDN'T LITERALLY DIE WITHOUT
 - [x] podcasts: pockcasts (<3) -> podverse (fdroid, meh)
 - [x] sat stacking: swan -> swan (webapp)
-- [ ] twitter -> (pwa? nitter ???) 
+- [x] twitter -> (pwa for now until I get nitter set up) 
 - [ ] discord -> ???
 - [ ] telegram -> telegram (fdroid is this a safe fork?)
-- [ ] audible -> ??? (APKMirror version isn't installing)
+- [x] audible -> audible (APKMirror + App Manager)
 - [ ] youtube -> ??? (newpie isn't working?)
 - [ ] hinge -> ARGH SINGLE FOREVER
 
@@ -30,13 +30,13 @@ Not listed here are apps I use on my iPad, such as Clubhouse, Prime Video, and B
 - [ ] cashapp -> ???
 - [ ] venmo -> ???
 - [ ] bank: bofa -> ???
-- [ ] strike -> ???
+- [x] strike -> strike (aurora store)
 
 ## NICE TO HAVE
 - [x] zulip -> zulip (apk!)
 - [x] mastodon: tusky (fdroid) -> tusky
-- [ ] citi bike -> (getting a key but the map is helpful) 
-- [ ] github -> ??? 
+- [ ] citi bike -> NO (requires google play services, maybe gmini would fix... I'm getting a key but the map is helpful) 
+- [x] github -> github (aurora store)
 - [ ] gotenna mesh -> ???
 - [ ] steam (2fa) -> (just need at home so could have on my ipad) 
 - [ ] nyc ferry -> ???
