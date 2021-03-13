@@ -3,6 +3,8 @@ I'm moving from stock Android to Graphene, and in the process I need to find alt
 
 Not listed here are apps I use on my iPad, such as Clubhouse, Prime Video, and Byword.
 
+[Plexus](https://plexus.techlore.tech/) has been a super helpful reference for seeing which apps will work.
+
 ## CORE PHONE FUNCTIONALITY (WHY I NEED ONE)
 - [x] browser: duckduckgo browser (not good) -> vanadium (wow so good)
 - [x] signal -> signal (apk)
@@ -35,7 +37,7 @@ Not listed here are apps I use on my iPad, such as Clubhouse, Prime Video, and B
 ## NICE TO HAVE
 - [x] zulip -> zulip (apk!)
 - [x] mastodon: tusky (fdroid) -> tusky
-- [ ] citi bike -> NO (requires google play services, maybe gmini would fix... I'm getting a key but the map is helpful) 
+- [ ] ~~citi bike~~ -> NO (requires google play services, maybe gmini would fix... I'm getting a key but the map is helpful) 
 - [x] github -> github (aurora store)
 - [ ] gotenna mesh -> ???
 - [ ] steam (2fa) -> (just need at home so could have on my ipad) 
