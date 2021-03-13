@@ -11,9 +11,9 @@ Not listed here are apps I use on my iPad, such as Clubhouse, Prime Video, and B
 - [x] samourai wallet -> samourai wallet (fdroid)
 - [x] voice memos: audio recorder (fdroid) -> audio recorder
 - [x] maps -> google maps -> OsmAnd+ (fdroid)
-- [ ] fastmail + gmail -> (I know just need one email app but which ???)
+- [x] fastmail + gmail -> k-9 (fdroid, kind of bad but it works)
+- [x] authy -> authy (aegis looks nice? ended up using authy from APKMirror)
 - [ ] notes: gitjournal -> (I could build from source) 
-- [ ] authy -> ??? (aegis looks nice but need authy export)
 - [ ] uber -> ???
 
 ## THE REASON I'M ON MY PHONE ALL THE TIME BUT WOULDN'T LITERALLY DIE WITHOUT
@@ -22,7 +22,7 @@ Not listed here are apps I use on my iPad, such as Clubhouse, Prime Video, and B
 - [ ] twitter -> (pwa? nitter ???) 
 - [ ] discord -> ???
 - [ ] telegram -> telegram (fdroid is this a safe fork?)
-- [ ] audible -> ???
+- [ ] audible -> ??? (APKMirror version isn't installing)
 - [ ] youtube -> ??? (newpie isn't working?)
 - [ ] hinge -> ARGH SINGLE FOREVER
 
